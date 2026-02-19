@@ -6,9 +6,13 @@ import pickle
 from transformers import AutoTokenizer, AutoModel
 from sklearn.metrics.pairwise import cosine_similarity
 
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 # Load tokenizer & BERT
 tokenizer = AutoTokenizer.from_pretrained("saved_model/tokenizer")
 bert_model = AutoModel.from_pretrained("bert-base-uncased")
+bert_model.to(device)
+bert_model.eval()
 
 # LSTM Class
 class LSTMClassifier(nn.Module):
@@ -31,8 +35,10 @@ with open("saved_model/label_encoder.pkl", "rb") as f:
 
 # Initialize model
 model = LSTMClassifier(768, 64, len(label_encoder.classes_))
-model.load_state_dict(torch.load("saved_model/lstm_model.pt", map_location=torch.device("cpu")))
+model.load_state_dict(torch.load("saved_model/lstm_model.pt", map_location=device))
+model.to(device)
 model.eval()
+
 
 def get_embedding(text):
     inputs = tokenizer(
@@ -41,7 +47,7 @@ def get_embedding(text):
         truncation=True,
         padding=True,
         max_length=50
-    )
+    ).to(device)
 
     with torch.no_grad():
         outputs = bert_model(**inputs)

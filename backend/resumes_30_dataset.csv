@@ -1,0 +1,331 @@
+candidate_name,resume_text,target_role
+Candidate_1,"Professional Summary:
+    1 years of experience working as Data Scientist.
+    
+    Skills:
+    Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Statistics, Scikit-learn
+    
+    Experience:
+    Worked at Cognizant for 1 years contributing to projects related to Data Scientist.
+    
+    Education:
+    M.Tech IT",Data Scientist
+Candidate_2,"Professional Summary:
+    1 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Capgemini for 1 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Sc Computer Science",Machine Learning Engineer
+Candidate_3,"Professional Summary:
+    2 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Accenture for 2 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Sc Computer Science",Machine Learning Engineer
+Candidate_4,"Professional Summary:
+    4 years of experience working as Frontend Developer.
+    
+    Skills:
+    HTML, CSS, JavaScript, React, Angular, Bootstrap, UI/UX
+    
+    Experience:
+    Worked at TCS for 4 years contributing to projects related to Frontend Developer.
+    
+    Education:
+    M.Tech IT",Frontend Developer
+Candidate_5,"Professional Summary:
+    6 years of experience working as Frontend Developer.
+    
+    Skills:
+    HTML, CSS, JavaScript, React, Angular, Bootstrap, UI/UX
+    
+    Experience:
+    Worked at Accenture for 6 years contributing to projects related to Frontend Developer.
+    
+    Education:
+    B.Tech in Computer Science",Frontend Developer
+Candidate_6,"Professional Summary:
+    6 years of experience working as Frontend Developer.
+    
+    Skills:
+    HTML, CSS, JavaScript, React, Angular, Bootstrap, UI/UX
+    
+    Experience:
+    Worked at Cognizant for 6 years contributing to projects related to Frontend Developer.
+    
+    Education:
+    B.Sc Computer Science",Frontend Developer
+Candidate_7,"Professional Summary:
+    4 years of experience working as Data Scientist.
+    
+    Skills:
+    Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Statistics, Scikit-learn
+    
+    Experience:
+    Worked at Wipro for 4 years contributing to projects related to Data Scientist.
+    
+    Education:
+    MCA",Data Scientist
+Candidate_8,"Professional Summary:
+    4 years of experience working as DevOps Engineer.
+    
+    Skills:
+    AWS, Docker, Kubernetes, CI/CD, Linux, Jenkins, Terraform
+    
+    Experience:
+    Worked at Wipro for 4 years contributing to projects related to DevOps Engineer.
+    
+    Education:
+    B.Sc Computer Science",DevOps Engineer
+Candidate_9,"Professional Summary:
+    4 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at TCS for 4 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Tech in Computer Science",Machine Learning Engineer
+Candidate_10,"Professional Summary:
+    4 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Capgemini for 4 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Sc Computer Science",Machine Learning Engineer
+Candidate_11,"Professional Summary:
+    0 years of experience working as Data Scientist.
+    
+    Skills:
+    Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Statistics, Scikit-learn
+    
+    Experience:
+    Worked at Accenture for 0 years contributing to projects related to Data Scientist.
+    
+    Education:
+    MCA",Data Scientist
+Candidate_12,"Professional Summary:
+    0 years of experience working as Data Scientist.
+    
+    Skills:
+    Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Statistics, Scikit-learn
+    
+    Experience:
+    Worked at TCS for 0 years contributing to projects related to Data Scientist.
+    
+    Education:
+    B.Sc Computer Science",Data Scientist
+Candidate_13,"Professional Summary:
+    2 years of experience working as Backend Developer.
+    
+    Skills:
+    Java, Spring Boot, REST API, MySQL, Microservices, Hibernate, Docker
+    
+    Experience:
+    Worked at TCS for 2 years contributing to projects related to Backend Developer.
+    
+    Education:
+    M.Tech IT",Backend Developer
+Candidate_14,"Professional Summary:
+    0 years of experience working as DevOps Engineer.
+    
+    Skills:
+    AWS, Docker, Kubernetes, CI/CD, Linux, Jenkins, Terraform
+    
+    Experience:
+    Worked at Accenture for 0 years contributing to projects related to DevOps Engineer.
+    
+    Education:
+    MCA",DevOps Engineer
+Candidate_15,"Professional Summary:
+    2 years of experience working as Backend Developer.
+    
+    Skills:
+    Java, Spring Boot, REST API, MySQL, Microservices, Hibernate, Docker
+    
+    Experience:
+    Worked at Wipro for 2 years contributing to projects related to Backend Developer.
+    
+    Education:
+    MCA",Backend Developer
+Candidate_16,"Professional Summary:
+    2 years of experience working as Data Scientist.
+    
+    Skills:
+    Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Statistics, Scikit-learn
+    
+    Experience:
+    Worked at Cognizant for 2 years contributing to projects related to Data Scientist.
+    
+    Education:
+    B.Sc Computer Science",Data Scientist
+Candidate_17,"Professional Summary:
+    5 years of experience working as Data Scientist.
+    
+    Skills:
+    Python, Machine Learning, Deep Learning, NLP, Pandas, NumPy, Statistics, Scikit-learn
+    
+    Experience:
+    Worked at Infosys for 5 years contributing to projects related to Data Scientist.
+    
+    Education:
+    MCA",Data Scientist
+Candidate_18,"Professional Summary:
+    0 years of experience working as DevOps Engineer.
+    
+    Skills:
+    AWS, Docker, Kubernetes, CI/CD, Linux, Jenkins, Terraform
+    
+    Experience:
+    Worked at TCS for 0 years contributing to projects related to DevOps Engineer.
+    
+    Education:
+    MCA",DevOps Engineer
+Candidate_19,"Professional Summary:
+    2 years of experience working as Frontend Developer.
+    
+    Skills:
+    HTML, CSS, JavaScript, React, Angular, Bootstrap, UI/UX
+    
+    Experience:
+    Worked at TCS for 2 years contributing to projects related to Frontend Developer.
+    
+    Education:
+    M.Tech IT",Frontend Developer
+Candidate_20,"Professional Summary:
+    2 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Accenture for 2 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Tech in Computer Science",Machine Learning Engineer
+Candidate_21,"Professional Summary:
+    2 years of experience working as DevOps Engineer.
+    
+    Skills:
+    AWS, Docker, Kubernetes, CI/CD, Linux, Jenkins, Terraform
+    
+    Experience:
+    Worked at Cognizant for 2 years contributing to projects related to DevOps Engineer.
+    
+    Education:
+    B.Sc Computer Science",DevOps Engineer
+Candidate_22,"Professional Summary:
+    4 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Wipro for 4 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Tech in Computer Science",Machine Learning Engineer
+Candidate_23,"Professional Summary:
+    0 years of experience working as DevOps Engineer.
+    
+    Skills:
+    AWS, Docker, Kubernetes, CI/CD, Linux, Jenkins, Terraform
+    
+    Experience:
+    Worked at Wipro for 0 years contributing to projects related to DevOps Engineer.
+    
+    Education:
+    B.Sc Computer Science",DevOps Engineer
+Candidate_24,"Professional Summary:
+    3 years of experience working as Backend Developer.
+    
+    Skills:
+    Java, Spring Boot, REST API, MySQL, Microservices, Hibernate, Docker
+    
+    Experience:
+    Worked at Accenture for 3 years contributing to projects related to Backend Developer.
+    
+    Education:
+    B.Tech in Computer Science",Backend Developer
+Candidate_25,"Professional Summary:
+    4 years of experience working as Frontend Developer.
+    
+    Skills:
+    HTML, CSS, JavaScript, React, Angular, Bootstrap, UI/UX
+    
+    Experience:
+    Worked at Cognizant for 4 years contributing to projects related to Frontend Developer.
+    
+    Education:
+    B.Tech in Computer Science",Frontend Developer
+Candidate_26,"Professional Summary:
+    1 years of experience working as DevOps Engineer.
+    
+    Skills:
+    AWS, Docker, Kubernetes, CI/CD, Linux, Jenkins, Terraform
+    
+    Experience:
+    Worked at Accenture for 1 years contributing to projects related to DevOps Engineer.
+    
+    Education:
+    B.Tech in Computer Science",DevOps Engineer
+Candidate_27,"Professional Summary:
+    0 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Infosys for 0 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Sc Computer Science",Machine Learning Engineer
+Candidate_28,"Professional Summary:
+    4 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Cognizant for 4 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    B.Tech in Computer Science",Machine Learning Engineer
+Candidate_29,"Professional Summary:
+    1 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at Accenture for 1 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    MCA",Machine Learning Engineer
+Candidate_30,"Professional Summary:
+    2 years of experience working as Machine Learning Engineer.
+    
+    Skills:
+    Python, TensorFlow, PyTorch, Deep Learning, Model Deployment, NLP
+    
+    Experience:
+    Worked at TCS for 2 years contributing to projects related to Machine Learning Engineer.
+    
+    Education:
+    M.Tech IT",Machine Learning Engineer
